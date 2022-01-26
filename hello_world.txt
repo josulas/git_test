@@ -1,0 +1,4 @@
+This is my first repo created for The Odin project.
+
+I don't know why a bioengineering student like me would learn web development.
+Maybe I'll get a part-time job and then buy a new laptop.
